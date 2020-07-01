@@ -1,0 +1,6 @@
+module Pods_deneme {
+  umbrella header "Pods-deneme-umbrella.h"
+
+  export *
+  module * { export * }
+}
